@@ -1,17 +1,17 @@
-# OpenWrt Multi daloRADIUS Versi 1.3 and 2.0 PHP7.4 - FW OpenWrt 21.02.3 LE 28 Mod by @reyre
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/0824e810-aa29-429d-bd2f-fbb051030f2b)
+# OpenWrt Multi daloRADIUS Versi v1.3 & v2.0 PHP7.4 - FW OpenWrt 21.02.3 LE 28 Mod by @reyre
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius_v1.3-v2.0/assets/28827754/caf827d0-385f-48fa-bef2-48294ace01d5)
 
 OpenWrt 21.02.3 LE 28 and FiberHome HG680P with more packages ported, more devices supported, better performance, and special optimizations for users. Compared the official one, we allow to use hacks or non-upstreamable patches / modifications to achieve our purpose. Source from anywhere.
 
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/fdbb3afb-99da-4234-88b1-36718348d353)
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius_v1.3-v2.0/assets/28827754/e07f7594-bd8a-4419-9239-7e3be03be643)
 **daloRADIUS Versi 1.3**
 
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/bcb93b78-d9c5-43e1-92dc-5e958481203b)
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius_v1.3-v2.0/assets/28827754/9ebb11a5-894f-4d4c-98a8-507b7ff53c68)
 **daloRADIUS Versi 2.0**
 
 daloRADIUS is written in PHP and JavaScript and utilizes a database abstraction layer which means that it supports many database systems, among them the popular MySQL, PostgreSQL, Sqlite, MsSQL, and many others. It is based on a FreeRADIUS deployment with a database server serving as the backend. Among other features it implements ACLs, GoogleMaps integration for locating hotspots/access points visually and many more features.
 
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/991e65d8-fdeb-49e5-af94-9f37d3308a09)
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius_v1.3-v2.0/assets/28827754/97592997-891f-4218-a9c9-7903759256a8)
 
 **Firmware information:**
     
