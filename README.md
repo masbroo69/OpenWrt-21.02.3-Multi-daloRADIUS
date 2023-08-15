@@ -7,7 +7,7 @@ daloRADIUS is an advanced RADIUS web management application aimed at managing ho
 daloRADIUS is written in PHP and JavaScript and utilizes a database abstraction layer which means that it supports many database systems, among them the popular MySQL, PostgreSQL, Sqlite, MsSQL, and many others. It is based on a FreeRADIUS deployment with a database server serving as the backend. Among other features it implements ACLs, GoogleMaps integration for locating hotspots/access points visually and many more features.
 
 ![LuCI](https://github.com/masbroo69/OpenWrt-Daloradius-V2.0/assets/28827754/bdfa46e7-fed6-41f0-b5d8-fca1a79124d2)
-OpenWrt 21.02.3 LE 28 HG680P  and FiberHome HG680P with more packages ported, more devices supported, better performance, and special optimizations for users. Compared the official one, we allow to use hacks or non-upstreamable patches / modifications to achieve our purpose. Source from anywhere.
+OpenWrt 21.02.3 LE 28 and FiberHome HG680P with more packages ported, more devices supported, better performance, and special optimizations for users. Compared the official one, we allow to use hacks or non-upstreamable patches / modifications to achieve our purpose. Source from anywhere.
 
 **Firmware information:**
     
