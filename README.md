@@ -35,7 +35,7 @@ OpenWrt 21.02.3 LE 28 and FiberHome HG680P with more packages ported, more devic
     - Load Balancing
     - ZeroTire
 
-**Features Fix for Daloradius:**  
+**Features Fix for Daloradius v2.0:**  
 
     - Server Status and Information
     - Users and Hotspots Management Graphs
