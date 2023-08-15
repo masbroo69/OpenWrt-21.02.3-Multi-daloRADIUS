@@ -1,13 +1,17 @@
 # OpenWrt Multi daloRADIUS Versi 1.3 and 2.0 PHP7.4 - FW OpenWrt 21.02.3 LE 28 Mod by @reyre
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Daloradius-V2.0/assets/28827754/39bce07b-cff4-4ad0-928a-a5c4ac4ec139)
-![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Daloradius-V2.0/assets/28827754/f2c7991f-9a96-4a7f-aff5-0b543617c644)
-daloRADIUS is an advanced RADIUS web management application aimed at managing hotspots and general-purpose ISP deployments. It features user management, graphical reporting, accounting, a billing engine and integrates with GoogleMaps for geo-locating.
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/0824e810-aa29-429d-bd2f-fbb051030f2b)
 
-![DaloradiusGraph](https://github.com/masbroo69/OpenWrt-Daloradius-V2.0/assets/28827754/b0866afe-38b8-454a-aa7a-141b2394e825)
+OpenWrt 21.02.3 LE 28 and FiberHome HG680P with more packages ported, more devices supported, better performance, and special optimizations for users. Compared the official one, we allow to use hacks or non-upstreamable patches / modifications to achieve our purpose. Source from anywhere.
+
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/fdbb3afb-99da-4234-88b1-36718348d353)
+**daloRADIUS Versi 1.3**
+
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/bcb93b78-d9c5-43e1-92dc-5e958481203b)
+**daloRADIUS Versi 2.0**
+
 daloRADIUS is written in PHP and JavaScript and utilizes a database abstraction layer which means that it supports many database systems, among them the popular MySQL, PostgreSQL, Sqlite, MsSQL, and many others. It is based on a FreeRADIUS deployment with a database server serving as the backend. Among other features it implements ACLs, GoogleMaps integration for locating hotspots/access points visually and many more features.
 
-![LuCI](https://github.com/masbroo69/OpenWrt-Daloradius-V2.0/assets/28827754/bdfa46e7-fed6-41f0-b5d8-fca1a79124d2)
-OpenWrt 21.02.3 LE 28 and FiberHome HG680P with more packages ported, more devices supported, better performance, and special optimizations for users. Compared the official one, we allow to use hacks or non-upstreamable patches / modifications to achieve our purpose. Source from anywhere.
+![Hotspot-Login](https://github.com/masbroo69/OpenWrt-Multi-Daloradius/assets/28827754/991e65d8-fdeb-49e5-af94-9f37d3308a09)
 
 **Firmware information:**
     
